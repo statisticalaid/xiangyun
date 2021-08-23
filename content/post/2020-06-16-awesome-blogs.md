@@ -63,6 +63,7 @@ description: "个人博客列表大合集，内容上是有偏的，R语言方�
 |John F Monahan              |https://www4.stat.ncsu.edu/~monahan/                                      |
 |Richard Glennie             |http://www.richardglennie.co.uk/                                          |
 |Jane-Ling                   |http://www.stat.ucdavis.edu/~wang/                                        |
+|Mohammad Touhid             |https://www.statisticalaid.com/                                           |                                            
 
 
 
